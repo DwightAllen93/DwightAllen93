@@ -1,7 +1,5 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh;">
-  <h1>Hi 👋, I'm Dwight</h1>
-  <p>A passionate Web Developer</p>
-</div>
+<h1 align="center">Hi 👋, I'm Dwight</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
 
 ###
