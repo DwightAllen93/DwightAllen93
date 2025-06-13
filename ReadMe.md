@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/528875379511787521/575b0f396bd9c05836d6b5bb4483f253.webp?size=1024"  />
+<img align="right" height="300" src="https://cdn.discordapp.com/avatars/528875379511787521/575b0f396bd9c05836d6b5bb4483f253.webp?size=1024"  />
 
 ###
 <h1 align="left">Languages and Tools</h2>
