@@ -69,7 +69,7 @@
 <p>A passionate Web Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><" 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DwightAllen93&show_icons=true&locale=en" alt="DwightAllen93" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DwightAllen93&" alt="DwightAllen93" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DwightAllen93&show_icons=true&locale=en&layout=compact" alt="DwightAllen93" /></p>
