@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dwight Allen Mamaclay
+# Hello World!, Im Dwight, a Web Developer 👋
 • 🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind, JavaScript, Java, Python, PHP, MySQL, C, C++
 
 
