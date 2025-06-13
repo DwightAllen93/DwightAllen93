@@ -1,5 +1,8 @@
-<h1>Hi 👋, I'm Dwight</h1>
-<p>A passionate Web Developer</p>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh;">
+  <h1>Hi 👋, I'm Dwight</h1>
+  <p>A passionate Web Developer</p>
+</div>
+
 
 ###
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DwightAllen93" alt="DwightAllen93" /></a></p>
