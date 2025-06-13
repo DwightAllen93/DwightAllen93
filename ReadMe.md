@@ -2,10 +2,9 @@
 
 ###
 
-<img align="right" height="50" src="https://cdn.discordapp.com/avatars/528875379511787521/575b0f396bd9c05836d6b5bb4483f253.webp?size=1024"  />
 
 ###
-<h1 align="left">Languages and Tools</h2>
+<h1 align="left">Languages and Tools</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
