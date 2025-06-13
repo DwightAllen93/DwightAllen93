@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dwight</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
+
+
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, Tailwind, JavaScript, Java, Python, PHP, MySQL, C, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DwightAllen93](https://github.com/DwightAllen93)
