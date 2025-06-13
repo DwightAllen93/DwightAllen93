@@ -74,11 +74,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxhncastro&show_icons=true&locale=en&layout=compact" alt="jxhncastro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DwightAllen93&show_icons=true&locale=en&layout=compact" alt="DwightAllen93" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxhncastro&show_icons=true&locale=en" alt="jxhncastro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DwightAllen93&show_icons=true&locale=en" alt="DwightAllen93" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jxhncastro&" alt="jxhncastro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DwightAllen93&" alt="DwightAllen93" /></p>
 
 
 
