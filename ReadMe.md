@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, Tailwind, JavaScript, Java, Python, PHP, MySQL, C, C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jxhncastro](https://github.com/DwightAllen93)
+- 👨‍💻 All of my projects are available at [https://github.com/DwightAllen93](https://github.com/DwightAllen93)
 ###
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DwightAllen93" alt="DwightAllen93" /></a></p>
 
