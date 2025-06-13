@@ -1,4 +1,5 @@
-<h2 align="left">Hello World 👋! Im Dwight</h2>
+<h1>Hi 👋, I'm Dwight</h1>
+<p>A passionate Web Developer</p>
 
 ###
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DwightAllen93" alt="DwightAllen93" /></a></p>
@@ -63,6 +64,9 @@
 </div>
 
 ###
+
+
+
 
 
 
