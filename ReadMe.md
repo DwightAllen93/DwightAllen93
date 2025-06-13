@@ -78,7 +78,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DwightAllen93&show_icons=true&locale=en" alt="DwightAllen93" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DwightAllen93&" alt="DwightAllen93" /></p>
-
 
 
