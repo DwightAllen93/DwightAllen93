@@ -1,5 +1,6 @@
 # Hi 👋, I'm Dwight Allen Mamaclay
-🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind, JavaScript, Java, Python, PHP, MySQL, C, C++
+• 🌱 I’m currently learning HTML, CSS, Bootstrap, Tailwind, JavaScript, Java, Python, PHP, MySQL, C, C++
+• 👨‍💻 All of my projects are available at https://github.com/jxhncastro
 
 
 ## 🌐 Socials:
